@@ -1,5 +1,5 @@
  ### Hi there!
-##### 👋, Md. Imran hossain From Bangladesh
+##### 👋, I am md. Imran hossain From Bangladesh
  I am interested in java Full stack Developer ionic with angular
 
 Skills: IONIC / ANGULAR/ JS / HTML / CSS/JAVA
