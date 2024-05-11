@@ -6,7 +6,7 @@ Skills: IONIC / ANGULAR/ JS / HTML / CSS/JAVA
 
 - 🌱 I’m currently learning New thing and Always Interested 
 - 👯 I’m looking to collaborate on Any Programming related Problem 
-- 💬 Ask me about As you wan to know  
+- 💬 Ask me about As you want to know  
 - 📫 How to reach me: Email:-imranhossain.cse97@gmail.com Or Phone:-+8801631732296 
 
 
